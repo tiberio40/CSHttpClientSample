@@ -1,0 +1,8 @@
+c:\users\frena\documents\visual studio 2017\Projects\CSHttpClientSample\CSHttpClientSample\bin\Debug\CSHttpClientSample.exe.config
+c:\users\frena\documents\visual studio 2017\Projects\CSHttpClientSample\CSHttpClientSample\bin\Debug\CSHttpClientSample.exe
+c:\users\frena\documents\visual studio 2017\Projects\CSHttpClientSample\CSHttpClientSample\bin\Debug\CSHttpClientSample.pdb
+c:\users\frena\documents\visual studio 2017\Projects\CSHttpClientSample\CSHttpClientSample\obj\Debug\CSHttpClientSample.csprojResolveAssemblyReference.cache
+c:\users\frena\documents\visual studio 2017\Projects\CSHttpClientSample\CSHttpClientSample\obj\Debug\CSHttpClientSample.exe
+c:\users\frena\documents\visual studio 2017\Projects\CSHttpClientSample\CSHttpClientSample\obj\Debug\CSHttpClientSample.pdb
+C:\Users\frena\documents\visual studio 2017\Projects\CSHttpClientSample\CSHttpClientSample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\frena\documents\visual studio 2017\Projects\CSHttpClientSample\CSHttpClientSample\bin\Debug\Newtonsoft.Json.xml
